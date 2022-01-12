@@ -1,0 +1,27 @@
+{
+    "teamid1": {
+        "id": "teamid1",
+        "name": "ELTE EMBEREK",
+        "city": "Budapest"
+    },
+    "teamid2": {
+        "id": "teamid2",
+        "name": "MAGYAROK",
+        "city": "GYOR"
+    },
+    "teamid3": {
+        "id": "teamid3",
+        "name": "THE HEROES",
+        "city": "P\u00e9cs"
+    },
+    "teamid4": {
+        "id": "teamid4",
+        "name": "HOSSOK",
+        "city": "Micskolc"
+    },
+    "teamid5": {
+        "id": "teamid5",
+        "name": "VALAKIK",
+        "city": "Esztergom"
+    }
+}

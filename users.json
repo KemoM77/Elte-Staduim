@@ -1,0 +1,100 @@
+{
+    "61dc23676bb32": {
+        "username": "1",
+        "password": "$2y$10$pZz.ypPwIQycyqYbcoJNIOUhnkHh6rnwdNYks3m.V0ObLa\/UjX50u",
+        "email": "2",
+        "role": "user",
+        "id": "61dc23676bb32"
+    },
+    "61dc2e31beaea": {
+        "username": "Hakeem7",
+        "password": "$2y$10$1nuFjJrj3UT5klytv8ngW.PSRVwuMvDIGeQRacVEndJW21CSrfCKi",
+        "email": "hma7777977@gmail.com",
+        "role": "user",
+        "id": "61dc2e31beaea"
+    },
+    "61dc4c105d337": {
+        "username": "s",
+        "password": "$2y$10$9ZY2cfZWKSKe9KPL7JTHYu54X8UuRV7z7nVa2MdRQNPh\/uvju0VKm",
+        "email": "",
+        "role": "user",
+        "id": "61dc4c105d337"
+    },
+    "61dc514409b2f": {
+        "username": " ",
+        "password": "$2y$10$dpXI95ZMWiNNK0wc..2dQeWExMuY85zmjojJ2L\/.KMG7ZpjIEEVhO",
+        "email": "",
+        "role": "user",
+        "id": "61dc514409b2f"
+    },
+    "61dc778b91b6a": {
+        "username": "sssss",
+        "password": "$2y$10$6095h6qLzppl5kepanECu.0xFjF7hjgVXpZjCrjBaT6nN.GebeCuO",
+        "email": "",
+        "role": "user",
+        "id": "61dc778b91b6a"
+    },
+    "61dc779797585": {
+        "username": "k",
+        "password": "$2y$10$Ldb3JAFAKJ0qZ7mgmYbZ2OrBTGMk9nz8ouLtAr9u5aJXRcrIGWQhO",
+        "email": "",
+        "role": "user",
+        "id": "61dc779797585"
+    },
+    "61dc845ca2db8": {
+        "username": "3",
+        "password": "$2y$10$xCjKN\/Zt9pS9bfeuafaFTONLJjusVOnMfO\/cQ7cZYZZyY\/YIYxhpa",
+        "email": "3",
+        "role": "user",
+        "id": "61dc845ca2db8"
+    },
+    "61dc9258f178c": {
+        "username": "Kemo",
+        "password": "$2y$10$bCcZp9tzn.u.8N3IzZxqcuG23QR9ypmRjJEZsTjWGRzEgPkzfLNci",
+        "email": "hma7777977@gmail.com",
+        "role": "admin",
+        "id": "61dc9258f178c"
+    },
+    "61dca9fc1a8c8": {
+        "username": "eee",
+        "password": "$2y$10$ekAK9bUIQBU7p7xoULhEkOOzgnG1rF5SPqgx\/w69Nsi88KapS\/m\/2",
+        "email": "hma7777977@gmail.com",
+        "role": "user",
+        "id": "61dca9fc1a8c8"
+    },
+    "61dcfba735475": {
+        "username": "22",
+        "password": "$2y$10$Ul9qf8OZaD.eixDg7TcwiuzfcHKUgi\/qRO\/Cvhtuo9HdxDexqJ73W",
+        "email": "22@gmail.com",
+        "role": "user",
+        "id": "61dcfba735475"
+    },
+    "61dd003806c6a": {
+        "username": "Sera",
+        "password": "$2y$10$X6jXSVTfmRZ8GbrxHPvwQOBJ4cCflKhFzSQ9hryhjwZmxj\/UriosK",
+        "email": "Sera@gmail.com",
+        "role": "user",
+        "id": "61dd003806c6a"
+    },
+    "61dd6ac736d90": {
+        "username": "admin",
+        "password": "$2y$10$xtIAQb5l67IqDvTf8FIbW.dqAzlRTvQLKzykB3XnPX6vCiyKek92W",
+        "email": "admin@eltestadium.hu",
+        "role": "admin",
+        "id": "61dd6ac736d90"
+    },
+    "61dd85e7120f7": {
+        "username": "Tariq",
+        "password": "$2y$10$xwCvPthLTWRbk5xHKRPBAe0.s8M0ArBujRFpTV05h1dzbwAfPe6\/m",
+        "email": "tariq@elte.hu",
+        "role": "user",
+        "id": "61dd85e7120f7"
+    },
+    "61dd868f7fb48": {
+        "username": "Abood",
+        "password": "$2y$10$7t7n7HdCtCuC1T3E2uNqWu5CTvdTbTxlDQoiTbUUvGoef.N3q1fYq",
+        "email": "Othmany201@gmail.com",
+        "role": "user",
+        "id": "61dd868f7fb48"
+    }
+}

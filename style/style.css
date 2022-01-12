@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    border: 2px solid black;
+    
+}
+
+.room{
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+}
+
+.board-container{
+    margin: 40px 40px 40px 40px;
+    padding: 40px 40px 40px 40px;
+}
